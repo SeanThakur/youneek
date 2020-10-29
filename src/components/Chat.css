@@ -1,0 +1,42 @@
+.ChatTextarea {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color: #525252;
+    text-transform: capitalize;
+}
+
+.message {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    white-space: pre-wrap;
+}
+
+.my-message {
+    color: black;
+    background-color: rgb(250, 250, 250);
+}
+
+.other-message {
+    color: black;
+    background-color: rgb(220, 220, 220);
+}
+
+.ChatName {
+ /* margin-top: 20px;
+ margin-left: 10px; */
+ font-size: 20px;
+ font-weight: 100;
+ letter-spacing: 1px;
+ text-transform: capitalize;
+}
+
+.Footer {
+    display: flex;
+    align-items: center;
+}

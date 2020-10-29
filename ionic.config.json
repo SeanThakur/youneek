@@ -1,0 +1,7 @@
+{
+  "name": "customapps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
